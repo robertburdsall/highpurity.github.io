@@ -37,7 +37,8 @@ body{
   background-color:white;
   position:relative;
 
-  bottom:75px
+  bottom:75px;
+  left:75px;
 }
 .twitch{
   background-color:white;
@@ -50,9 +51,8 @@ body{
 
   bottom:75px;
 
-  left:25px;
+  left:100px;
 }
-
 .discord{
   background-color:white;
   border-color:transparent;
@@ -64,6 +64,19 @@ body{
 
   bottom:75px;
 
-  right:245px;
+  right:172px;
+}
+.github{
+  background-color:white;
+  border-color:transparent;
+  border-radius:10px;
+  height:70px;
+  width:70px;
+  color:lightcoral;
+  position:relative;
+
+  bottom:75px;
+
+  left:110px;
 }
 
