@@ -33,5 +33,10 @@ body{
   width:70px;
   border-radius:10px;
   border-color:transparent;
+  color:lightcoral;
+  background-color:white;
+  position:relative;
+
+  bottom:75px
 }
 
