@@ -92,6 +92,18 @@ body{
 
   right:375px;
 }
-
-
-
+.twitter:hover{
+  background-color:lightgrey;
+}
+.discord:hover{
+  background-color:lightgrey;
+}
+.youtube:hover{
+  background-color:lightgrey;
+}
+.twitch:hover{
+  background-color:lightgrey;
+}
+.github:hover{
+  background-color:lightgrey;
+}
