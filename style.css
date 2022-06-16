@@ -53,3 +53,17 @@ body{
   left:25px;
 }
 
+.discord{
+  background-color:white;
+  border-color:transparent;
+  border-radius:10px;
+  height:70px;
+  width:70px;
+  color:lightcoral;
+  position:relative;
+
+  bottom:75px;
+
+  right:245px;
+}
+
