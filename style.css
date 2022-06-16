@@ -39,4 +39,17 @@ body{
 
   bottom:75px
 }
+.twitch{
+  background-color:white;
+  border-color:transparent;
+  border-radius:10px;
+  height:70px;
+  width:70px;
+  color:lightcoral;
+  position:relative;
+
+  bottom:75px;
+
+  left:25px;
+}
 
