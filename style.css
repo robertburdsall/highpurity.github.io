@@ -28,7 +28,7 @@ body{
   width:100%;
 
 }
-.yt{
+.youtube{
   height:70px;
   width:70px;
   border-radius:10px;
@@ -38,7 +38,7 @@ body{
   position:relative;
 
   bottom:75px;
-  left:75px;
+  left:135px;
 }
 .twitch{
   background-color:white;
@@ -51,7 +51,7 @@ body{
 
   bottom:75px;
 
-  left:100px;
+  left:170px;
 }
 .discord{
   background-color:white;
@@ -64,7 +64,7 @@ body{
 
   bottom:75px;
 
-  right:172px;
+  right:122px;
 }
 .github{
   background-color:white;
@@ -77,6 +77,21 @@ body{
 
   bottom:75px;
 
-  left:110px;
+  left:130px;
 }
+.twitter{
+  background-color:white;
+  border-color:transparent;
+  border-radius:10px;
+  height:70px;
+  width:70px;
+  color:lightcoral;
+  position:relative;
+
+  bottom:75px;
+
+  right:375px;
+}
+
+
 
