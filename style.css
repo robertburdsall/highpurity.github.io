@@ -8,7 +8,8 @@ body{
     font-size:3.5em;
 
     position: relative;
-    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
     bottom:100px;
   }
   #name{
@@ -38,7 +39,7 @@ body{
   position:relative;
 
   bottom:75px;
-  left:135px;
+  left:155px;
 }
 .twitch{
   background-color:white;
@@ -51,7 +52,7 @@ body{
 
   bottom:75px;
 
-  left:170px;
+  left:190px;
 }
 .discord{
   background-color:white;
@@ -64,7 +65,7 @@ body{
 
   bottom:75px;
 
-  right:122px;
+  right:102px;
 }
 .github{
   background-color:white;
@@ -77,7 +78,7 @@ body{
 
   bottom:75px;
 
-  left:130px;
+  left:150px;
 }
 .twitter{
   background-color:white;
@@ -90,7 +91,7 @@ body{
 
   bottom:75px;
 
-  right:380px;
+  right:360px;
 }
 .twitter:hover{
   background-color:lightgrey;
