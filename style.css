@@ -82,3 +82,11 @@ img {
   box-shadow: 0 5px 5px 2px var(--shadow);
   border-radius: 15px;
 }
+#twittertimeline {
+  padding: 0.5em;
+  color: white;
+  font-size: 3.5em;
+}
+.twitter-timeline {
+  border-radius:15px;
+}
