@@ -90,3 +90,48 @@ img {
 .twitter-timeline {
   border-radius:15px;
 }
+#ForumsTitle{
+  color:whitesmoke;
+  font-size: 3.5em;
+  position: relative;
+  top:75px;
+  border-color:white;
+}
+.forums{
+  text-color: var(--bg-color);
+}
+.miniforumstitle{
+  position:relative;
+
+  top:100px;
+  right:200px;
+  width: 300px;
+  border: 15px solid whitesmoke;
+  background-color:lightgrey;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  color:lightcoral;
+
+}
+.miniforumstitle1{
+  position:relative;
+  bottom:16px;
+
+  left:200px;
+  width: 300px;
+  border: 15px solid whitesmoke;
+  background-color:lightgrey;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  color:lightcoral;
+}
+.miniforumstitle:hover{
+  transform: scale(1.2);
+  border-color: lightgrey;
+}
+.miniforumstitle1:hover{
+  transform: scale(1.2);
+  border-color:lightgray;
+}
