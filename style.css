@@ -156,11 +156,15 @@ img {
   border-bottom: 4px solid whitesmoke;
   width:95%
 }
-.date{
-  color:white;
-  font-size:1.2em;
-}
 .author{
   color:white;
-  font-size:1.2em;
+  font-size: 1.7em;
+}
+.date{
+  color:white;
+  font-size:1.5em;
+}
+.edited{
+  color:white;
+  font-size:1.4em;
 }
