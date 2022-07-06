@@ -146,35 +146,21 @@ img {
   top:100px;
 
 }
-#forumstext1{
-  color:white;
-  font-family: Inter, sans-serif;
-  text-align:left;
-  max-width:350px;
-  font-size:1.3em;
+.line{
+  border-bottom:2px solid whitesmoke;
+  width:50px;
   position:relative;
-  padding:10px;
-  border: solid 5px whitesmoke;
-  border-radius:10px;
-  font-weight:300;
-  
-
-  right:400px;
-  top:200px;
+  top:100px;
 }
-#forumstext2{
+.splitter{
+  border-bottom: 4px solid whitesmoke;
+  width:95%
+}
+.date{
   color:white;
-  font-family: Inter, sans-serif;
-  text-align:left;
-  max-width:350px;
-  font-size:1.3em;
-  position:relative;
-  padding:10px;
-  border: solid 5px whitesmoke;
-  border-radius:10px;
-  font-weight:300;
-  
-
-  left:250px;
-  top:150px;
+  font-size:1.2em;
+}
+.author{
+  color:white;
+  font-size:1.2em;
 }
