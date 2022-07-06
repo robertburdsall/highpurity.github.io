@@ -137,3 +137,30 @@ img {
   transform: scale(1.2);
   border-color:lightgray;
 }
+.tutorialvideo{
+  box-shadow: 0 5px 5px 2px var(--shadow);
+  border-radius: 15px;
+
+  position:relative;
+
+  top:100px;
+
+}
+#forumstext{
+  color:white;
+  font-family: Inter, sans-serif;
+  text-align:left;
+  max-width:200px;
+  font-size:1.1em;
+  border-radius:10px;
+  border-color:aqua;
+  padding:10px;
+  border:10px;
+  
+  
+  position:relative;
+
+
+  right:400px;
+  top:200px;
+}
