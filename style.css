@@ -168,3 +168,17 @@ img {
   color:white;
   font-size:1.4em;
 }
+p{
+  color:white;
+  font-family: Inter, sans-serif;
+  font-size:1.5em;
+}
+.tutorialimages{
+  max-width: 100em;
+  border-style: solid;
+  border-width: 1em;
+  border-radius: 10px;;
+  border-color: whitesmoke;
+  box-shadow: 0 5px 5px 2px var(--shadow);
+
+}
