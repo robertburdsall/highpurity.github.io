@@ -180,5 +180,25 @@ p{
   border-radius: 10px;;
   border-color: whitesmoke;
   box-shadow: 0 5px 5px 2px var(--shadow);
-
+}
+.button1 {
+  margin: 2em;
+  display: flex;
+  text-decoration: none;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 475px;
+  height: 75px;
+  border-radius: 10px;
+  border-color: transparent;
+  color: lightcoral;
+  background-color: white;
+  box-shadow: 0 5px 5px 2px var(--shadow);
+  transition: all 500ms;
+}
+#title1 {
+  color: lightcoral;
+  font-size: 2.5em;
+  margin: auto;
 }
