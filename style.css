@@ -18,6 +18,10 @@ body {
   background-color: var(--bg-color);
 }
 
+hr {
+  margin: 20px;
+}
+
 .img-wrapper {
   margin-top: 2em;
 }
